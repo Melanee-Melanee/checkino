@@ -1,4 +1,3 @@
-[![](https://i.ibb.co/X8HbVDt/checkino-Poster.png)](#)
 # Checkino Windows
 
 Project For Realtime Check Your Local Vpn Connecntion
@@ -52,4 +51,8 @@ you can run source in your machine :
 
 
 >  Powered By : Abolfazl irani
+
+The checking connection code is here:
+
+![check connection](https://github.com/Melanee-Melanee/checkino/assets/74653444/f27c83f8-bdf5-47c0-8551-6cb2422cfbba)
 
